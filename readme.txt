@@ -1,18 +1,3 @@
-<!DOCTYPE  html>
-<htlm>
-   <head>
-      <title>README.html</title>
-   </head>	
-<body>
-	Texto alterado
-	Teste do git
+Aprendendo com o curso de Git e GitHub
 
-	Mais uma linha
-
-	Mais uma linha porra
-
-	<button>  <button> 
-
-</body>
-
-</htlm>
+Saiba mais [RaulfabioFN.git] (https://github.com/RaulFabioFN)
